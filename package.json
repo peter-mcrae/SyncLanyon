@@ -1,0 +1,18 @@
+{
+  "name": "lanyon",
+  "version": "0.0.1",
+  "description": "sync lanyon registrations to marketo",
+  "main": "SyncToMarketo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peter mcrae",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mailgun-js": "^0.7.7",
+    "request": "^2.67.0",
+    "xml2js": "^0.4.15"
+  }
+}

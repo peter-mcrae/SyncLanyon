@@ -1,0 +1,66 @@
+<user-data time="1448405126269">
+    <user>
+        <userRef>3A0398319D99F868</userRef>
+        <firstName>Peter</firstName>
+        <lastName>McRae</lastName>
+        <email>pmcrae+test1@tibco.com</email>
+        <companyName>Tibco</companyName>
+        <jobTitle>marketing tech</jobTitle>
+        <address1>35351 cheviot ct</address1>
+        <address2></address2>
+        <address3></address3>
+        <city>newark</city>
+        <stateID>CA</stateID>
+        <foreignState></foreignState>
+        <zip>94560</zip>
+        <countryID>US</countryID>
+        <phoneNumber>415-516-5112</phoneNumber>
+        <phone2Number></phone2Number>
+        <middleInitial></middleInitial>
+        <preferredName></preferredName>
+        <email2></email2>
+        <faxNumber></faxNumber>
+        <externalRef></externalRef>
+        <publicBio></publicBio>
+        <registered>true</registered>
+        <paid>true</paid>
+        <create-date>2015-10-22 08:43</create-date>
+        <last-modified-date>2015-10-22 08:52</last-modified-date>
+        <badgeID>1234123</badgeID>
+        <publicViewPrivateSchedule></publicViewPrivateSchedule>
+        <privateViewPrivateSchedule></privateViewPrivateSchedule>
+        <cannotViewOrSchedule></cannotViewOrSchedule>
+    </user>
+    <user>
+        <userRef>3A0398319D99F868</userRef>
+        <firstName>Peter</firstName>
+        <lastName>McRae</lastName>
+        <email>pmcrae+test2@tibco.com</email>
+        <companyName>Tibco</companyName>
+        <jobTitle>marketing tech</jobTitle>
+        <address1>35351 cheviot ct</address1>
+        <address2></address2>
+        <address3></address3>
+        <city>newark</city>
+        <stateID>CA</stateID>
+        <foreignState></foreignState>
+        <zip>94560</zip>
+        <countryID>US</countryID>
+        <phoneNumber>415-516-5112</phoneNumber>
+        <phone2Number></phone2Number>
+        <middleInitial></middleInitial>
+        <preferredName></preferredName>
+        <email2></email2>
+        <faxNumber></faxNumber>
+        <externalRef></externalRef>
+        <publicBio></publicBio>
+        <registered>true</registered>
+        <paid>true</paid>
+        <create-date>2015-10-22 08:43</create-date>
+        <last-modified-date>2015-10-22 08:52</last-modified-date>
+        <badgeID>1234123</badgeID>
+        <publicViewPrivateSchedule></publicViewPrivateSchedule>
+        <privateViewPrivateSchedule></privateViewPrivateSchedule>
+        <cannotViewOrSchedule></cannotViewOrSchedule>
+    </user>
+</user-data>
